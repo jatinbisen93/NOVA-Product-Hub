@@ -1,4 +1,4 @@
-<h1 align="center"> NOVA Product Hub111</h1>
+<h1 align="center"> NOVA Product Hub</h1>
 <h3 align="center">NOVA Product Hub is a robust product management application enabling users to seamlessly perform CRUD operations (Create, Read, Update, Delete) on products. Designed with a layered architecture, this project ensures clear separation of concerns, scalability, and maintainability.</h3>
 
  
